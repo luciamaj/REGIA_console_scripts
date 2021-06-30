@@ -1,0 +1,13 @@
+30-06-2021 09:58:54 Spegni player 10.54.5.150: 10.54.5.150 seems to be offline
+30-06-2021 09:59:03 Spegni player 10.54.5.160: 10.54.5.160 seems to be offline
+30-06-2021 09:59:13 Spegni player 10.54.5.161: 10.54.5.161 seems to be offline
+30-06-2021 09:59:22 Spegni player 10.54.5.162: 10.54.5.162 seems to be offline
+30-06-2021 09:59:32 Spegni player 10.54.5.163: 10.54.5.163 seems to be offline
+30-06-2021 09:59:41 Spegni player 10.54.5.164: 10.54.5.164 seems to be offline
+30-06-2021 09:59:51 Spegni onoff 10.54.4.102: 10.54.4.102 seems to be offline
+30-06-2021 10:00:01 Spegni player 10.54.5.10: 10.54.5.10 seems to be offline
+30-06-2021 10:00:10 Spegni player 10.54.5.11: 10.54.5.11 seems to be offline
+30-06-2021 10:00:20 Spegni player 10.54.5.12: 10.54.5.12 seems to be offline
+30-06-2021 10:00:29 Spegni player 10.54.5.13: 10.54.5.13 seems to be offline
+30-06-2021 10:00:39 Spegni player 10.54.5.14: 10.54.5.14 seems to be offline
+30-06-2021 10:00:48 Spegni onoff 10.54.4.101: 10.54.4.101 seems to be offline

@@ -1,0 +1,73 @@
+Prova Log
+27-05-2021 10:52:16 Prova Log
+27-05-2021 11:50:52 Prova Log
+27-05-2021 12:08:39 An error occurred: Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione. (os error 10061)
+27-05-2021 12:18:07 Accendi pc 1C697A0B211A 
+27-05-2021 12:28:40 Accendi player 10.54.5.150
+27-05-2021 12:28:40 Accendi onoff 10.54.4.102
+27-05-2021 12:28:42 Accendi onoff 192.168.0.126
+27-05-2021 12:29:04 Accendi proiettore 10.54.2.160 An error occurred: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. (os error 10060)
+27-05-2021 12:29:26 Accendi proiettore 10.54.2.161 An error occurred: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. (os error 10060)
+27-05-2021 12:29:48 Accendi proiettore 10.54.2.162 An error occurred: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. (os error 10060)
+27-05-2021 12:30:10 Accendi proiettore 10.54.2.163 An error occurred: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. (os error 10060)
+27-05-2021 12:30:32 Accendi proiettore 10.54.2.164 An error occurred: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. (os error 10060)
+27-05-2021 12:30:33 Accendi player 10.54.5.160
+27-05-2021 12:30:34 Accendi player 10.54.5.161
+27-05-2021 12:30:34 Accendi player 10.54.5.162
+27-05-2021 12:30:35 Accendi player 10.54.5.163
+27-05-2021 12:30:35 Accendi player 10.54.5.164
+27-05-2021 12:30:36 Accendi onoff 10.54.4.101
+27-05-2021 12:30:58 Accendi proiettore 10.54.2.10 An error occurred: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. (os error 10060)
+27-05-2021 12:40:14 Accendi player 10.54.5.150
+27-05-2021 12:40:14 Accendi onoff 10.54.4.102
+27-05-2021 12:40:15 Accendi onoff 192.168.0.126
+27-05-2021 12:40:16 Accendi proiettore 10.54.2.160: 
+27-05-2021 12:40:17 Accendi proiettore 10.54.2.161: 
+27-05-2021 12:40:18 Accendi proiettore 10.54.2.162: 
+27-05-2021 12:40:19 Accendi proiettore 10.54.2.163: 
+27-05-2021 12:41:25 Accendi player 10.54.5.150
+27-05-2021 12:41:25 Accendi onoff 10.54.4.102
+27-05-2021 12:41:26 Accendi onoff 192.168.0.126
+27-05-2021 12:41:27 Accendi proiettore 10.54.2.160: 
+27-05-2021 12:41:28 Accendi proiettore 10.54.2.161: 
+27-05-2021 12:41:29 Accendi proiettore 10.54.2.162: 
+27-05-2021 12:41:30 Accendi proiettore 10.54.2.163: 
+27-05-2021 12:41:32 Accendi proiettore 10.54.2.164: 
+27-05-2021 12:41:33 Accendi player 10.54.5.160
+27-05-2021 12:41:33 Accendi player 10.54.5.161
+27-05-2021 12:41:34 Accendi player 10.54.5.162
+27-05-2021 12:41:34 Accendi player 10.54.5.163
+27-05-2021 12:42:26 Accendi player 10.54.5.150
+27-05-2021 12:42:26 Accendi onoff 10.54.4.102
+27-05-2021 12:42:27 Accendi onoff 192.168.0.126
+27-05-2021 12:42:37 Accendi proiettore 10.54.2.160: 10.54.2.160 seems to be offline
+27-05-2021 12:42:47 Accendi proiettore 10.54.2.161: 10.54.2.161 seems to be offline
+27-05-2021 12:42:57 Accendi proiettore 10.54.2.162: 10.54.2.162 seems to be offline
+27-05-2021 12:43:07 Accendi proiettore 10.54.2.163: 10.54.2.163 seems to be offline
+27-05-2021 12:43:17 Accendi proiettore 10.54.2.164: 10.54.2.164 seems to be offline
+27-05-2021 12:43:18 Accendi player 10.54.5.160
+27-05-2021 12:43:19 Accendi player 10.54.5.161
+27-05-2021 12:43:19 Accendi player 10.54.5.162
+27-05-2021 12:43:20 Accendi player 10.54.5.163
+27-05-2021 12:43:21 Accendi player 10.54.5.164
+27-05-2021 12:43:21 Accendi onoff 10.54.4.101
+27-05-2021 12:43:31 Accendi proiettore 10.54.2.10: 10.54.2.10 seems to be offline
+27-05-2021 12:43:41 Accendi proiettore 10.54.2.11: 10.54.2.11 seems to be offline
+27-05-2021 12:43:51 Accendi proiettore 10.54.2.12: 10.54.2.12 seems to be offline
+27-05-2021 12:44:01 Accendi proiettore 10.54.2.13: 10.54.2.13 seems to be offline
+27-05-2021 12:44:11 Accendi proiettore 10.54.2.14: 10.54.2.14 seems to be offline
+27-05-2021 12:44:12 Accendi player 10.54.5.10
+27-05-2021 12:44:12 Accendi player 10.54.5.11
+27-05-2021 12:44:13 Accendi player 10.54.5.12
+27-05-2021 12:44:13 Accendi player 10.54.5.13
+27-05-2021 12:44:14 Accendi player 10.54.5.14
+27-05-2021 12:44:15 Accendi onoff 10.54.4.102
+27-05-2021 12:44:24 Accendi proiettore 10.54.2.20: 10.54.2.20 seems to be offline
+27-05-2021 12:44:34 Accendi proiettore 10.54.2.21: 10.54.2.21 seems to be offline
+27-05-2021 12:44:44 Accendi proiettore 10.54.2.22: 10.54.2.22 seems to be offline
+27-05-2021 12:44:54 Accendi proiettore 10.54.2.23: 10.54.2.23 seems to be offline
+27-05-2021 12:45:04 Accendi proiettore 10.54.2.24: 10.54.2.24 seems to be offline
+27-05-2021 12:45:14 Accendi proiettore 10.54.2.25: 10.54.2.25 seems to be offline
+27-05-2021 12:58:59 Accendi player 10.54.5.150: 10.54.5.150 seems to be offline
+27-05-2021 12:59:09 Accendi onoff 10.54.4.102: 10.54.4.102 seems to be offline
+27-05-2021 12:59:12 Accendi onoff 192.168.0.126: UDP inviato
