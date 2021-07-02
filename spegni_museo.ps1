@@ -2,6 +2,7 @@ Import-Module "C:\Admin\scripts\commands\spegni_onoff.ps1"
 Import-Module "C:\Admin\scripts\commands\spegni_pc.ps1"
 Import-Module "C:\Admin\scripts\commands\spegni_proiettore.ps1"
 Import-Module "C:\Admin\scripts\commands\spegni_player.ps1"
+$INI = Get-Content "C:\Admin\scripts\config.ini" | Select -Skip 1 | ConvertFrom-StringData
 
 $sale = Get-Content "C:\Admin\scripts\lista_sale.txt"
 
@@ -29,9 +30,11 @@ Foreach ($sala in $sale) {
 	} else {
 		"Path $($FolderProiettore) doesn't exist."
 	}
-	
-	Start-Sleep -s 300
-	
+}
+
+Start-Sleep -s $INI["SECONDS_BEFORE_SPEGNIMENTO"]
+
+Foreach ($sala in $sale) {
 	$FolderOnOff = "C:\Admin\$($sala)\ONOFFlist.txt"
 	if (Test-Path -Path $FolderOnOff) {
 		"On_Off [$sala]"

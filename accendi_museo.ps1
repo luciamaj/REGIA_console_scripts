@@ -2,6 +2,7 @@ Import-Module "C:\Admin\scripts\commands\accendi_onoff.ps1"
 Import-Module "C:\Admin\scripts\commands\accendi_pc.ps1"
 Import-Module "C:\Admin\scripts\commands\accendi_proiettore.ps1"
 Import-Module "C:\Admin\scripts\commands\accendi_player.ps1"
+$INI = Get-Content "C:\Admin\scripts\config.ini" | Select -Skip 1 | ConvertFrom-StringData
 
 $sale = Get-Content "C:\Admin\scripts\lista_sale.txt"
 
@@ -13,7 +14,11 @@ Foreach ($sala in $sale) {
 	} else {
 		"Path $($FolderOnOff) doesn't exist."
 	}
-	
+}
+
+Start-Sleep -s $INI["SECONDS_AFTER_ACCENSIONE"]
+
+Foreach ($sala in $sale) {
 	$FolderProiettore = "C:\Admin\$($sala)\PROJECTORlist.txt"
 	if (Test-Path -Path $FolderProiettore) {
 		"Proiettori [$sala]"
